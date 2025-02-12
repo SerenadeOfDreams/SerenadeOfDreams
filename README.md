@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerenadeOfDreams
 - 👀 I’m interested in ... Back-End development, playing video-games, and listening music
-- 🌱 I’m currently learning ... C# and SQL Server
+- 🌱 I’m currently learning ... C# and Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... he/him
